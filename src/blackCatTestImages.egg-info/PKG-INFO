@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: blackCatTestImages
+Version: 1.0.0
+Summary: runs algorithm on specified photo set and displays results
+Home-page: https://github.com/cass1618/blackCatTestImages
+Author: Cassandra Copp
+Author-email: Cassandra Copp <cass16180@gmail.com>
+Description-Content-Type: markdown
+License-File: LICENSE.txt
+Dynamic: license-file

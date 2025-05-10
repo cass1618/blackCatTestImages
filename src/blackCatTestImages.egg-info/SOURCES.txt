@@ -1,0 +1,15 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/blackCatTestImages/__init__.py
+src/blackCatTestImages.egg-info/PKG-INFO
+src/blackCatTestImages.egg-info/SOURCES.txt
+src/blackCatTestImages.egg-info/dependency_links.txt
+src/blackCatTestImages.egg-info/top_level.txt
+src/blackCatTestImages/images/img1.jpg
+src/blackCatTestImages/images/img2.jpg
+src/blackCatTestImages/images/img3.jpg
+src/blackCatTestImages/images/img4.jpg
+src/blackCatTestImages/images/img5.jpg
+src/blackCatTestImages/images/img6.jpg

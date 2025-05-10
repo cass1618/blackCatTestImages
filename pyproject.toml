@@ -1,0 +1,17 @@
+[build-system]
+requires = ['setuptools>=42']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = "blackCatTestImages"
+version = "1.0.0"
+description = "runs algorithm on specified photo set and displays results"
+authors = [{name = "Cassandra Copp", email = "cass16180@gmail.com"}]
+dependencies = []
+
+[tools.setuptools]
+python_requires = ">=3.6"
+
+
+[tool.setuptools.package-data]
+"blackCatTestImages" = ["images/*.jpg"]

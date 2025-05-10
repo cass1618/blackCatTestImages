@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/blackCatTestImages/__init__.py
+src/black_cat_test_images.egg-info/PKG-INFO
+src/black_cat_test_images.egg-info/SOURCES.txt
+src/black_cat_test_images.egg-info/dependency_links.txt
+src/black_cat_test_images.egg-info/top_level.txt
